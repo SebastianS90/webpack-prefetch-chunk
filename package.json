@@ -1,0 +1,19 @@
+{
+  "name": "webpack-prefetch-chunk",
+  "version": "1.0.0",
+  "description": "Webpack plugin to dynamically prefetch chunks",
+  "keywords": [
+    "webpack",
+    "prefetch"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SebastianS90/webpack-prefetch-chunk"
+  },
+  "author": "Sebastian Schweizer",
+  "license": "MIT",
+  "peerDependencies": {
+    "webpack": "^4.0.0"
+  }
+}
